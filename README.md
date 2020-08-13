@@ -50,16 +50,16 @@
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/jdanielsancheza/" target="blank">
-  <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Daniel's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://twitter.com/puni_xa" target="blank">
-  <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Daniel's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.twitch.tv/punisherxa" target="blank">
-  <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Daniel's Twitch" width="30px" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" /> &nbsp; &nbsp;
  </a>
   <a href="https://www.youtube.com/channel/UCZeOdhc-bygGqaIig8vbPxQ" target="blank">
-  <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Daniel's Youtube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /> &nbsp; &nbsp;
  </a>
 </p>
 <br/>
