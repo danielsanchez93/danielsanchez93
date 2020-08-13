@@ -1,9 +1,11 @@
-<br><p align="center">Daniel Sanchez, A.K.A PunisherXA</p></br>
+### Daniel Sanchez, A.K.A PunisherXA
 > I don't know how i fixed it, but I fixed it.
 > -Puni 2018
 
-
+# About me
 :man_technologist: I'm a videogame developer and the **first Unity Certified Instructor** in South America
+
+# Bucket List
 <p><em>[Narwhalcorn](https://narwhalcorn.com) Co-founder, master of bugs and effect warlock</em></p>
 - [x] 🖥 Studied Electronics engineering
 - [x] 🎻 Played violin
