@@ -4,7 +4,7 @@
 
 ## About me
 :man_technologist: I'm a videogame developer and the **first Unity Certified Instructor** in South America
-<p><em>[Narwhalcorn](https://narwhalcorn.com) Co-founder, master of bugs and effect warlock</em></p>
+<p><em><a href="https://narwhalcorn.com">Narwhalcorn</a> Co-founder, master of bugs and effect warlock</em></p>
 
 ## Bucket List
 - [x] 🖥 Studied Electronics Engineering
