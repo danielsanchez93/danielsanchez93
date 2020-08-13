@@ -13,7 +13,7 @@
 # Bucket List
 - [x] 🖥 Studied Electronics Engineering
 - [x] 🎻 Played violin
-- [x] 🛩 Learn how to fly an airplane
+- [x] 🛩 Learned how to fly an airplane
 - [X] 🤺 National Medallist in fencing
 - [ ] 🕹 10/10 IGN (Soon)
 
