@@ -1,14 +1,18 @@
-### Daniel Sanchez, weird Game Dev 👋
+<p align="center">### Daniel Sanchez, A.K.A PunisherXA</p>
+> I don't know how i fixed it, but I fixed it.
+
 :man_technologist: I'm a videogame developer and the **first Unity Certified Instructor** in South America
-<p><em>@Narwhalcorn Co-founder, master of bugs and effects caster</em></p>
+<p><em>[Narwhalcorn](https://narwhalcorn.com) Co-founder, master of bugs and effect warlock</em></p>
 - [x] 🖥 Studied Electronics engineering
 - [x] 🎻 Played violin
 - [x] 🛩 Learn how to fly an airplane
 - [X] 🤺 National Medallist in fencing
 - [ ] 🕹 10/10 IGN (Soon)
 
+
+
 <!--
-**danielsanchez93/danielsanchez93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**danielsanchez93/danielsanchez93** is a ✨ _special_ ✨ guy.
 
 Here are some ideas to get you started:
 
