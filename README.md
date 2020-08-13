@@ -13,11 +13,26 @@
 - [X] 🤺 National Medallist in fencing
 - [ ] 🕹 10/10 IGN (Soon)
 
+# 🤔 What I know
+- Unity3D
+- Sprite and illustration stack (CPS, Ps, Aseprite)
+- Blender
+- Arduino and electronics
+- Audio stack (Reaper, Audacity, Lmms, Bosca Ceoil)
+- 
+
 # 🔭 I’m currently working on:
-| :---: | :---: | :---: | :---: |
-| Spooky Helper | Twitch Bot for stream assistant with waifus | Accesibility Bundle for Unity | Online career as streamer|
+  - Spooky Helper by Narwhalcorn
+  - Twitch bot as stream assistant with waifus
+  - Accesibility bundle for Unity
+  - Online career as streamer 
 
 # 🌱 I’m currently learning ...
+  - Blender 🎲
+	- Shadergraph 🎆
+	- Drawing ✏
+	- Javascript and NodeJs
+
 
 <!--
 **danielsanchez93/danielsanchez93** is a ✨ _special_ ✨ guy.
@@ -29,26 +44,26 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - ⚡ Fun fact: ...
 -->
 
 
 <div align="center">
-  <h3 align="center">Let's connect 😋</h3> 
+  <h3 align="center">Networking 📫</h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in/hector-pulido-17547369/" target="blank">
-  <img align="center" alt="Hector's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ <a href="https://www.linkedin.com/in/jdanielsancheza/" target="blank">
+  <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/Hector_Pulido_" target="blank">
-  <img align="center" alt="Hector's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ <a href="https://twitter.com/puni_xa" target="blank">
+  <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://www.twitch.tv/hector_pulido_" target="blank">
-  <img align="center" alt="Hector's Twitch" width="30px" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" /> &nbsp; &nbsp;
+ <a href="https://www.twitch.tv/punisherxa" target="blank">
+  <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" /> &nbsp; &nbsp;
  </a>
-  <a href="https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw" target="blank">
-  <img align="center" alt="Hector's Youtube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /> &nbsp; &nbsp;
+  <a href="https://www.youtube.com/channel/UCZeOdhc-bygGqaIig8vbPxQ" target="blank">
+  <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /> &nbsp; &nbsp;
  </a>
 </p>
 <br/>
