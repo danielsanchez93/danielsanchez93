@@ -1,5 +1,12 @@
-### Hi there 👋
-:man_technologist:
+### Daniel Sanchez, weird Game Dev 👋
+:man_technologist: I'm a videogame developer and the first Unity Certified Instructor in South America
+@Narwhalcorn Co founder, master of 
+- [x] 🖥 Studied Electronics engineering
+- [x] 🎻 Played violin
+- [x] 🛩 Learn how to fly an airplane
+- [X] 🤺 National Medallist in fencing
+- [ ] 🕹 10/10 IGN (Soon)
+
 <!--
 **danielsanchez93/danielsanchez93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
