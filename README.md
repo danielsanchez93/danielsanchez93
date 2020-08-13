@@ -1,4 +1,4 @@
-###<p align="center">Daniel Sanchez, A.K.A PunisherXA</p>
+<br><p align="center">Daniel Sanchez, A.K.A PunisherXA</p></br>
 > I don't know how i fixed it, but I fixed it.
 > -Puni 2018
 
