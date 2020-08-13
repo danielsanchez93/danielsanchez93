@@ -1,12 +1,12 @@
-## Daniel Sanchez, A.K.A PunisherXA
+# Daniel Sanchez, A.K.A PunisherXA
 > I don't know how i fixed it, but I fixed it.
 > -Puni 2018
 
-## About me
+# About me
 :man_technologist: I'm a videogame developer and the **first Unity Certified Instructor** in South America, Passionate about aviation, fencing and biomedicine. 
 <p><em><a href="https://narwhalcorn.com">Narwhalcorn</a> Co-founder, <a href="https://twitch.tv/punisherxa">Almost streamer</a>, master of bugs and effects warlock</em></p>
 
-## Bucket List
+# Bucket List
 - [x] 🖥 Studied Electronics Engineering
 - [x] 🎻 Played violin
 - [x] 🛩 Learn how to fly an airplane
@@ -15,7 +15,7 @@
 
 # 🔭 I’m currently working on:
 | :---: | :---: | :---: | :---: |
-|Spooky Helper| Twitch Bot for stream assistant with waifus | Accesibility Bundle for Unity | Online career as streamer|
+| Spooky Helper | Twitch Bot for stream assistant with waifus | Accesibility Bundle for Unity | Online career as streamer|
 
 # 🌱 I’m currently learning ...
 
