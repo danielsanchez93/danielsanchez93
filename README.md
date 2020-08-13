@@ -1,6 +1,6 @@
 ### Daniel Sanchez, weird Game Dev 👋
-:man_technologist: I'm a videogame developer and the first Unity Certified Instructor in South America
-@Narwhalcorn Co founder, master of 
+:man_technologist: I'm a videogame developer and the **first Unity Certified Instructor** in South America
+<em>@Narwhalcorn Co-founder, master of bugs and effects caster</em>
 - [x] 🖥 Studied Electronics engineering
 - [x] 🎻 Played violin
 - [x] 🛩 Learn how to fly an airplane
