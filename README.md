@@ -3,7 +3,7 @@
 > -Puni 2018
 
 <a href="https://twitter.com/Hector_Pulido_">
-<img align="right" height="auto" width="200" src="https://pequesoft.net/web/static/images/pequesoft.png"/> 
+<img align="right" height="auto" width="200" src="https://i.imgur.com/z1nGhrB.png"/> 
 </a>
 
 # About me
