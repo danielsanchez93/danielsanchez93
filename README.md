@@ -2,6 +2,10 @@
 > I don't know how i fixed it, but I fixed it.
 > -Puni 2018
 
+<a href="https://twitter.com/Hector_Pulido_">
+<img align="right" height="auto" width="200" src="https://pequesoft.net/web/static/images/pequesoft.png"/> 
+</a>
+
 # About me
 :man_technologist: I'm a videogame developer and the **first Unity Certified Instructor** in South America, Passionate about aviation, fencing and biomedicine. 
 <p><em><a href="https://narwhalcorn.com">Narwhalcorn</a> Co-founder, <a href="https://twitch.tv/punisherxa">Almost streamer</a>, master of bugs and effects warlock</em></p>
@@ -14,18 +18,19 @@
 - [ ] 🕹 10/10 IGN (Soon)
 
 # 🤔 What I know
-  - Unity3D
-  - Sprite and illustration stack (CPS, Ps, Aseprite)
-  - Blender
-  - Arduino and electronics
-  - Audio stack (Reaper, Audacity, Lmms, Bosca Ceoil)
-  - 
+  - Unity3D 🎮
+  - Accesibility 🦽 (several papers/presentations in order to use this in commercial games)
+  - Sprite and illustration stack 🖍 (CPS, Ps, Aseprite)
+  - Arduino and electronics 🔌
+  - Audio stack 🎶 (Reaper, Audacity, Lmms, Bosca Ceoil)
+  - How to fly an airplane 🛬 (I cannot promise to land very smoothly)
+  - How to use a katana ⚔ (really)
 
 # 🔭 I’m currently working on:
-  - Spooky Helper by Narwhalcorn
-  - Twitch bot as stream assistant with waifus
-  - Accesibility bundle for Unity
-  - Online career as streamer 
+  - 👻 Spooky Helper by Narwhalcorn
+  - 🤖 Twitch bot as stream assistant with waifus
+  - 👨‍🦽👩‍🦽 Accesibility bundle for Unity
+  - 📹 Online career as streamer 
 
 # 🌱 I’m currently learning ...
   - Blender 🎲
