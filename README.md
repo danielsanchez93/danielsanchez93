@@ -2,8 +2,8 @@
 > I don't know how i fixed it, but I fixed it.
 > -Puni 2018
 
-<a href="https://twitter.com/Hector_Pulido_">
-<img align="right" height="auto" width="200" src="https://i.imgur.com/z1nGhrB.png"/> 
+<a href="https://twitter.com/puni_xa">
+<img align="right" height="auto" width="200" src="https://pbs.twimg.com/profile_images/1372236661023678466/-Sxuw7Nx_400x400.png"/> 
 </a>
 
 # About me
@@ -27,7 +27,7 @@
   - How to use a katana ⚔ (really)
 
 # 🔭 I’m currently working on:
-  - 👻 Spooky Helper by Narwhalcorn
+  - 👋 Sign Language Game for VR
   - 🤖 Twitch bot as stream assistant with waifus
   - 👨‍🦽👩‍🦽 Accesibility bundle for Unity
   - 📹 Online career as streamer 
@@ -36,7 +36,7 @@
   - Blender 🎲
   - Shadergraph 🎆
   - Drawing ✏
-  - Javascript and NodeJs
+  - Javascript
 
 
 <!--
